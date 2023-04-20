@@ -1,0 +1,13 @@
+# Python
+*.pyc
+*~
+__pycache__
+
+# macOS
+._*
+.DS_Store
+.fseventsd
+.Spotlight-V100
+
+#Pycharm/IntelliJ
+.idea
