@@ -1,3 +1,6 @@
 #footer .credits {
   display: none;
 }
+.elist {
+  list-style-type: none;
+}
