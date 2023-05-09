@@ -1,6 +1,12 @@
 #footer .credits {
   display: none;
 }
+
 .elist {
   list-style-type: none;
+}
+
+section {
+  padding: 60px;
+  overflow: hidden;
 }
